@@ -1,0 +1,25 @@
+{
+  "name": "disconsole",
+  "version": "1.0.0",
+  "description": "Discord + Console = Disconsole!  |  CUI Discord Bot",
+  "main": "Disconsole.js",
+  "scripts": {
+    "test": "node TEST.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PMHStudio/DiscordDisconsole.git"
+  },
+  "keywords": [
+    "DiscordBot"
+  ],
+  "author": "PMH Studio / PMH",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PMHStudio/DiscordDisconsole/issues"
+  },
+  "homepage": "https://github.com/PMHStudio/DiscordDisconsole#readme",
+  "dependencies": {
+    "discord.js": "^11.4.2"
+  }
+}
